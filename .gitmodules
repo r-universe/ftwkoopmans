@@ -9,3 +9,6 @@
 [submodule "goat"]
 	path = goat
 	url = https://github.com/ftwkoopmans/goat
+[submodule "pairscale"]
+	path = pairscale
+	url = https://github.com/ftwkoopmans/pairscale
